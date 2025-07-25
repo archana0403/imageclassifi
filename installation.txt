@@ -1,0 +1,21 @@
+python -m venv venv
+venv\Scripts\activate
+
+
+pip install tensorflow
+
+
+pip install opencv-python
+pip install pillow
+
+
+
+
+pip install numpy matplotlib
+
+
+
+
+pip install flask
+# OR (for UI-based apps)
+pip install streamlit
